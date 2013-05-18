@@ -7,9 +7,18 @@ environment using buildout.
 We assume you this this steps:
 
  * Clone the repository (or download a copy of a stable release)
- * Install all the required dependencies in *requierements.txt*
+ * Install all the required dependencies in *requirements.txt*
 
 If you didn't, please take a look to :doc:`../docs/installation`
+
+Specific OS requirements
+------------------------
+
+* Ubuntu 12.04 ::
+
+    $ sudo apt-get install python-dev
+
+
 Steps
 -----
 
